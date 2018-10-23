@@ -19,7 +19,7 @@ class Kwadrat extends Czworokat{
     public double pole(){
         return bok1*bok1;
     }
-}
+}// <3 <3
 class Prostokat extends Czworokat{
     public void nazwa(){
         System.out.println("prostokat:");
